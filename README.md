@@ -1,8 +1,8 @@
-# .NETtest
+Este é o meu teste realizado.
 
-Instruções:
-
-1) Faça um clone deste repositório
-2) Complete os arquivos: Task1, Task2 e Task3
-3) Faça um push request com sua resposta
-4) Sugerimos o tempo ate 1:30 entre o clone do repositório e o push
+Task 1 - Solucionado.
+Task 2 - Solucionado.
+Task 3:
+Task 3.1 - Uma parte solucionada.
+Task 3.2 - Não realizada.
+Task 3.3 - Não realizada.
